@@ -1,0 +1,1193 @@
+{
+  "cutToTop": 4,
+  "date": "2023-11-02",
+  "eliminationPlayers": [
+    {
+      "id": 35553,
+      "name": "Radiant",
+      "rank": 1,
+      "seed": 3
+    },
+    {
+      "id": 35718,
+      "name": "Jai",
+      "rank": 2,
+      "seed": 4
+    },
+    {
+      "id": 35709,
+      "name": "Santa",
+      "rank": 3,
+      "seed": 1
+    },
+    {
+      "id": 35642,
+      "name": "ThatsNoMun",
+      "rank": 4,
+      "seed": 2
+    }
+  ],
+  "links": [
+    {
+      "href": "http://steffens.org/nrtm/nrtm-schema.json",
+      "rel": "schemaderivedfrom"
+    },
+    {
+      "href": "https://tournaments.nullsignal.games/tournaments/7QZ6",
+      "rel": "uploadedfrom"
+    }
+  ],
+  "name": "Seattle H2 CO Asynchronous League!",
+  "players": [
+    {
+      "corpIdentity": "Haas-Bioroid: Architects of Tomorrow",
+      "extendedStrengthOfSchedule": "3.515625",
+      "id": 35709,
+      "matchPoints": 21,
+      "name": "Santa",
+      "rank": 1,
+      "runnerIdentity": "Hoshiko Shiro: Untold Protagonist",
+      "strengthOfSchedule": "3.0"
+    },
+    {
+      "corpIdentity": "NBN: Reality Plus",
+      "extendedStrengthOfSchedule": "3.5625",
+      "id": 35642,
+      "matchPoints": 21,
+      "name": "ThatsNoMun",
+      "rank": 2,
+      "runnerIdentity": "Hoshiko Shiro: Untold Protagonist",
+      "strengthOfSchedule": "2.8125"
+    },
+    {
+      "corpIdentity": "Haas-Bioroid: Precision Design",
+      "extendedStrengthOfSchedule": "3.515625",
+      "id": 35553,
+      "matchPoints": 18,
+      "name": "Radiant",
+      "rank": 3,
+      "runnerIdentity": "Hoshiko Shiro: Untold Protagonist",
+      "strengthOfSchedule": "3.75"
+    },
+    {
+      "corpIdentity": "NBN: Reality Plus",
+      "extendedStrengthOfSchedule": "3.328125",
+      "id": 35718,
+      "matchPoints": 18,
+      "name": "Jai",
+      "rank": 4,
+      "runnerIdentity": "Hoshiko Shiro: Untold Protagonist",
+      "strengthOfSchedule": "3.75"
+    },
+    {
+      "corpIdentity": "Near-Earth Hub: Broadcast Center",
+      "extendedStrengthOfSchedule": "3.328125",
+      "id": 35706,
+      "matchPoints": 18,
+      "name": "ComradeCoheed",
+      "rank": 5,
+      "runnerIdentity": "Hoshiko Shiro: Untold Protagonist",
+      "strengthOfSchedule": "3.5625"
+    },
+    {
+      "corpIdentity": "Epiphany Analytica: Nations Undivided",
+      "extendedStrengthOfSchedule": "2.90625",
+      "id": 35716,
+      "matchPoints": 15,
+      "name": "CephalopodWizard",
+      "rank": 6,
+      "runnerIdentity": "René \"Loup\" Arcemont: Party Animal",
+      "strengthOfSchedule": "3.1875"
+    },
+    {
+      "corpIdentity": "Near-Earth Hub: Broadcast Center",
+      "extendedStrengthOfSchedule": "3.5625",
+      "id": 35703,
+      "matchPoints": 15,
+      "name": "anarchomushroom",
+      "rank": 7,
+      "runnerIdentity": "Arissana Rocha Nahu: Street Artist",
+      "strengthOfSchedule": "2.0625"
+    },
+    {
+      "corpIdentity": "The Outfit: Family Owned and Operated",
+      "extendedStrengthOfSchedule": "3.234375",
+      "id": 35641,
+      "matchPoints": 15,
+      "name": "cablooshe",
+      "rank": 8,
+      "runnerIdentity": "Rielle \"Kit\" Peddler: Transhuman",
+      "strengthOfSchedule": "2.0625"
+    },
+    {
+      "corpIdentity": "NBN: Reality Plus",
+      "extendedStrengthOfSchedule": "2.53125",
+      "id": 35570,
+      "matchPoints": 12,
+      "name": "maninthemoon",
+      "rank": 9,
+      "runnerIdentity": "Tāo Salonga: Telepresence Magician",
+      "strengthOfSchedule": "4.125"
+    },
+    {
+      "corpIdentity": "Ob Superheavy Logistics: Extract. Export. Excel.",
+      "extendedStrengthOfSchedule": "2.71875",
+      "id": 35719,
+      "matchPoints": 12,
+      "name": "The King",
+      "rank": 10,
+      "runnerIdentity": "Hoshiko Shiro: Untold Protagonist",
+      "strengthOfSchedule": "3.75"
+    },
+    {
+      "corpIdentity": "Asa Group: Security Through Vigilance",
+      "extendedStrengthOfSchedule": "3.28125",
+      "id": 35576,
+      "matchPoints": 12,
+      "name": "xFWx FIREBIRD (aka FireRL)",
+      "rank": 11,
+      "runnerIdentity": "Hoshiko Shiro: Untold Protagonist",
+      "strengthOfSchedule": "3.1875"
+    },
+    {
+      "corpIdentity": "Epiphany Analytica: Nations Undivided",
+      "extendedStrengthOfSchedule": "3.09375",
+      "id": 35579,
+      "matchPoints": 12,
+      "name": "saifrc",
+      "rank": 12,
+      "runnerIdentity": "Nyusha \"Sable\" Sintashta: Symphonic Prodigy",
+      "strengthOfSchedule": "2.25"
+    },
+    {
+      "corpIdentity": "Ob Superheavy Logistics: Extract. Export. Excel.",
+      "extendedStrengthOfSchedule": "2.71875",
+      "id": 35575,
+      "matchPoints": 9,
+      "name": "TurnLeft25",
+      "rank": 13,
+      "runnerIdentity": "Arissana Rocha Nahu: Street Artist",
+      "strengthOfSchedule": "3.5625"
+    },
+    {
+      "corpIdentity": "Asa Group: Security Through Vigilance",
+      "extendedStrengthOfSchedule": "2.578125",
+      "id": 35578,
+      "matchPoints": 9,
+      "name": "Talenelat",
+      "rank": 14,
+      "runnerIdentity": "Mercury: Chrome Libertador",
+      "strengthOfSchedule": "3.5625"
+    },
+    {
+      "corpIdentity": "AgInfusion: New Miracles for a New World",
+      "extendedStrengthOfSchedule": "2.90625",
+      "id": 35717,
+      "matchPoints": 9,
+      "name": "jfoley",
+      "rank": 15,
+      "runnerIdentity": "Hoshiko Shiro: Untold Protagonist",
+      "strengthOfSchedule": "3.375"
+    },
+    {
+      "corpIdentity": "Jinteki: Personal Evolution",
+      "extendedStrengthOfSchedule": "2.90625",
+      "id": 35708,
+      "matchPoints": 9,
+      "name": "imyxh",
+      "rank": 16,
+      "runnerIdentity": "Captain Padma Isbister: Intrepid Explorer",
+      "strengthOfSchedule": "2.625"
+    },
+    {
+      "corpIdentity": "Earth Station: SEA Headquarters",
+      "extendedStrengthOfSchedule": "3.09375",
+      "id": 35705,
+      "matchPoints": 9,
+      "name": "Apple_In_Auburn",
+      "rank": 17,
+      "runnerIdentity": "Esâ Afontov: Eco-Insurrectionist",
+      "strengthOfSchedule": "2.25"
+    },
+    {
+      "corpIdentity": "The Outfit: Family Owned and Operated",
+      "extendedStrengthOfSchedule": "3.046875",
+      "id": 35574,
+      "matchPoints": 9,
+      "name": "Runaway",
+      "rank": 18,
+      "runnerIdentity": "Nyusha \"Sable\" Sintashta: Symphonic Prodigy",
+      "strengthOfSchedule": "2.0625"
+    },
+    {
+      "corpIdentity": "MirrorMorph: Endless Iteration",
+      "extendedStrengthOfSchedule": "2.71875",
+      "id": 35639,
+      "matchPoints": 9,
+      "name": "ksodiya",
+      "rank": 19,
+      "runnerIdentity": "Reina Roja: Freedom Fighter",
+      "strengthOfSchedule": "2.0625"
+    },
+    {
+      "corpIdentity": "Jemison Astronautics: Sacrifice. Audacity. Success.",
+      "extendedStrengthOfSchedule": "2.671875",
+      "id": 35707,
+      "matchPoints": 6,
+      "name": "TheSovietLoveHammer",
+      "rank": 20,
+      "runnerIdentity": "Hoshiko Shiro: Untold Protagonist",
+      "strengthOfSchedule": "3.0"
+    },
+    {
+      "corpIdentity": "The Outfit: Family Owned and Operated",
+      "extendedStrengthOfSchedule": "2.53125",
+      "id": 35640,
+      "matchPoints": 6,
+      "name": "theRemix",
+      "rank": 21,
+      "runnerIdentity": "Hoshiko Shiro: Untold Protagonist",
+      "strengthOfSchedule": "3.0"
+    },
+    {
+      "corpIdentity": "Weyland Consortium: Built to Last",
+      "extendedStrengthOfSchedule": "2.25",
+      "id": 35673,
+      "matchPoints": 0,
+      "name": "FAC3L355",
+      "rank": 22,
+      "runnerIdentity": "Esâ Afontov: Eco-Insurrectionist",
+      "strengthOfSchedule": "3.0"
+    }
+  ],
+  "preliminaryRounds": 4,
+  "rounds": [
+    [
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35705,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35570,
+          "runnerScore": 3
+        },
+        "table": 1,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35639,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35575,
+          "runnerScore": 3
+        },
+        "table": 2,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35716,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35553,
+          "runnerScore": 3
+        },
+        "table": 3,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35707,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35706,
+          "runnerScore": 3
+        },
+        "table": 4,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35703,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35673,
+          "runnerScore": 0
+        },
+        "table": 5,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35576,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35717,
+          "runnerScore": 0
+        },
+        "table": 6,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35709,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35718,
+          "runnerScore": 0
+        },
+        "table": 7,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35579,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35708,
+          "runnerScore": 0
+        },
+        "table": 8,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35640,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35642,
+          "runnerScore": 3
+        },
+        "table": 9,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35578,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35574,
+          "runnerScore": 0
+        },
+        "table": 10,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35641,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35719,
+          "runnerScore": 3
+        },
+        "table": 11,
+        "twoForOne": false
+      }
+    ],
+    [
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35706,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35719,
+          "runnerScore": 0
+        },
+        "table": 1,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35642,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35578,
+          "runnerScore": 0
+        },
+        "table": 2,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35553,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35575,
+          "runnerScore": 0
+        },
+        "table": 3,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35570,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35703,
+          "runnerScore": 0
+        },
+        "table": 4,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35708,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35709,
+          "runnerScore": 3
+        },
+        "table": 5,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35579,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35576,
+          "runnerScore": 3
+        },
+        "table": 6,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35717,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35718,
+          "runnerScore": 3
+        },
+        "table": 7,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35707,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35640,
+          "runnerScore": 0
+        },
+        "table": 8,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35574,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35639,
+          "runnerScore": 0
+        },
+        "table": 9,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35641,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35673,
+          "runnerScore": 0
+        },
+        "table": 10,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35705,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35716,
+          "runnerScore": 3
+        },
+        "table": 11,
+        "twoForOne": false
+      }
+    ],
+    [
+      {
+        "eliminationGame": false,
+        "intentionalDraw": true,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 0,
+          "id": 35706,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 0,
+          "id": 35553,
+          "runnerScore": 0
+        },
+        "table": 1,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35642,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35570,
+          "runnerScore": 0
+        },
+        "table": 2,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 0,
+          "id": 35718,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35576,
+          "runnerScore": 0
+        },
+        "table": 3,
+        "twoForOne": true
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35575,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35709,
+          "runnerScore": 3
+        },
+        "table": 4,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35641,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35716,
+          "runnerScore": 0
+        },
+        "table": 5,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35719,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35703,
+          "runnerScore": 0
+        },
+        "table": 6,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35578,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35579,
+          "runnerScore": 0
+        },
+        "table": 7,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35639,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35707,
+          "runnerScore": 0
+        },
+        "table": 8,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35574,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35640,
+          "runnerScore": 0
+        },
+        "table": 9,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35717,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35708,
+          "runnerScore": 0
+        },
+        "table": 10,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35705,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35673,
+          "runnerScore": 0
+        },
+        "table": 11,
+        "twoForOne": false
+      }
+    ],
+    [
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35642,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35706,
+          "runnerScore": 0
+        },
+        "table": 1,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 0,
+          "id": 35553,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 0,
+          "id": 35718,
+          "runnerScore": 3
+        },
+        "table": 2,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 0,
+          "id": 35709,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35570,
+          "runnerScore": 0
+        },
+        "table": 3,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35576,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35719,
+          "runnerScore": 0
+        },
+        "table": 4,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35703,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35717,
+          "runnerScore": 0
+        },
+        "table": 5,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35716,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35578,
+          "runnerScore": 0
+        },
+        "table": 6,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35707,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35641,
+          "runnerScore": 3
+        },
+        "table": 7,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35639,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35705,
+          "runnerScore": 0
+        },
+        "table": 8,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35574,
+          "runnerScore": 0
+        },
+        "player2": {
+          "combinedScore": 3,
+          "corpScore": 3,
+          "id": 35575,
+          "runnerScore": 0
+        },
+        "table": 9,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35579,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35640,
+          "runnerScore": 0
+        },
+        "table": 10,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": false,
+        "intentionalDraw": false,
+        "player1": {
+          "combinedScore": 6,
+          "corpScore": 3,
+          "id": 35708,
+          "runnerScore": 3
+        },
+        "player2": {
+          "combinedScore": 0,
+          "corpScore": 0,
+          "id": 35673,
+          "runnerScore": 0
+        },
+        "table": 11,
+        "twoForOne": false
+      }
+    ],
+    [
+      {
+        "eliminationGame": true,
+        "intentionalDraw": false,
+        "player1": {
+          "id": 35709,
+          "role": "runner",
+          "winner": false
+        },
+        "player2": {
+          "id": 35718,
+          "role": "corp",
+          "winner": true
+        },
+        "table": 1,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": true,
+        "intentionalDraw": false,
+        "player1": {
+          "id": 35642,
+          "role": "corp",
+          "winner": false
+        },
+        "player2": {
+          "id": 35553,
+          "role": "runner",
+          "winner": true
+        },
+        "table": 2,
+        "twoForOne": false
+      }
+    ],
+    [
+      {
+        "eliminationGame": true,
+        "intentionalDraw": false,
+        "player1": {
+          "id": 35709,
+          "role": "corp",
+          "winner": false
+        },
+        "player2": {
+          "id": 35718,
+          "role": "runner",
+          "winner": true
+        },
+        "table": 3,
+        "twoForOne": false
+      },
+      {
+        "eliminationGame": true,
+        "intentionalDraw": false,
+        "player1": {
+          "id": 35642,
+          "role": "runner",
+          "winner": false
+        },
+        "player2": {
+          "id": 35553,
+          "role": "corp",
+          "winner": true
+        },
+        "table": 4,
+        "twoForOne": false
+      }
+    ],
+    [
+      {
+        "eliminationGame": true,
+        "intentionalDraw": false,
+        "player1": {
+          "id": 35718,
+          "role": "corp",
+          "winner": false
+        },
+        "player2": {
+          "id": 35553,
+          "role": "runner",
+          "winner": true
+        },
+        "table": 5,
+        "twoForOne": false
+      }
+    ],
+    [
+      {
+        "eliminationGame": true,
+        "intentionalDraw": false,
+        "player1": {
+          "id": 35718,
+          "role": "runner",
+          "winner": true
+        },
+        "player2": {
+          "id": 35553,
+          "role": "corp",
+          "winner": false
+        },
+        "table": 6,
+        "twoForOne": false
+      }
+    ],
+    [
+      {
+        "eliminationGame": true,
+        "intentionalDraw": false,
+        "player1": {
+          "id": 35718,
+          "role": "corp",
+          "winner": false
+        },
+        "player2": {
+          "id": 35553,
+          "role": "runner",
+          "winner": true
+        },
+        "table": 7,
+        "twoForOne": false
+      }
+    ]
+  ],
+  "tournamentOrganiser": {
+    "nrdbId": 37550,
+    "nrdbUsername": "maninthemoon"
+  },
+  "uploadedFrom": "Cobra"
+}

@@ -1,0 +1,4 @@
+/test_env
+.ipynb_checkpoints
+__pycache__
+/output
