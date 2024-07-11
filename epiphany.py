@@ -626,12 +626,14 @@ def get_heatmap(event, paired_winrate, min_games=0):
         mask=mask,
         annot=annot,
         fmt=".0f",
-        cmap="vlag",
+        cmap="vlag_r",
         vmin=0.0,
         vmax=1.0,
     )
     min_plus1 = min_games+1
-    g.set_title(f'{event} - {min_plus1}+ obs - Corp Win Rates (Number is Total Games Played)')
+    plt.title(f'{event} - {min_plus1}+ obs - Corp Win Rates (Number is Total Games Played)', fontsize=12, pad=24, y=1)
+    plt.suptitle("Blue for corp; red for runner", fontsize=9, y=.93)
+
     return g
 
 def get_corp_popularity_by_month(flattened_matches):
